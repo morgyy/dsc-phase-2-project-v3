@@ -44,19 +44,23 @@ Tools
 
 
 
-##  Key Insights
+##  Findings
 
-- Certain genres like **Action**, **Adventure**, and **Animation** tend to yield higher returns.
-- High-rated movies tend to attract larger audiences regardless of budget.
-- Release years and budgets impact profitability significantly.
+- Genres like Action, Adventure, and Drama usually have a higher Retuen On Investment
+
+- Movies with high ratings often get more viewers, considering they have low Production Budget
+
+- The year a movie is released and how much it costs to make can affect the profit it makes
 
 
 
 ##  Business Recommendations
 
-1. Focus on **Action** and **Adventure** genres.
-2. Prioritize **high-rated** scripts and **moderate budgets**.
-3. Consider **seasonal trends** and **audience rating** preferences.
+- Focusing on producing geners like Action and Drama movies
+
+-Choose well-rated stories with average spending
+
+- Pay attention to release timing and the audience rating
 
 
 
@@ -79,8 +83,8 @@ You can view the interactive dashboard here:
 ##  Author
 
 Morgan Amwai  
-_Data Science Student, Moringa School_  
-GitHub: [morgyy](https://github.com/morgyy/)
+Data Science Student, Moringa School
+
 
 
 
