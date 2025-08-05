@@ -58,7 +58,7 @@ Tools
 
 - Focusing on producing geners like Action and Drama movies
 
--Choose well-rated stories with average spending
+- Choose well-rated movies with average spending
 
 - Pay attention to release timing and the audience rating
 
@@ -66,9 +66,9 @@ Tools
 
 ##  Files in this Repository
 
-- `student.ipynb` – Jupyter notebook with code, analysis, and visuals
+- `student.ipynb` – Jupyter notebook containing code, analysis, and visuals
 - `movie_analysis.csv` – Cleaned dataset used for analysis
-- `presentation.pdf` – Non-technical stakeholder slide deck
+- `presentation.pdf` – Non technical presentations slides
 - `README.md` – Project overview
 
 
