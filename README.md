@@ -1,26 +1,25 @@
 
 ## Phase 2 Data Science Project – Moringa School
 
-This project explores movie industry data to help a production company decide which genres and attributes are most profitable and popular. By analyzing and visualizing data from multiple sources, we provide data-driven recommendations for future movie investments.
+This project analyzes movie industry data to guide a production company in identifying the most profitable and popular genres and features, by examining and visualizing data from various sources, we offer evidence based on the  recommendations for future movie investment
 
----
+
 
 ##  Business Understanding
 
-The production company wants to invest in movies that perform well both critically and commercially. The business question is:
+The production company aims to fund movies that are successful both with critics and at the box office.
+The main business being, which movie genres and features should the company prioritize to earn more profit and attract more viewers?
 
-**“Which genres and features of movies should the company focus on to maximize profitability and audience engagement?”**
 
----
 
 ##  Data Sources
 
-We used multiple datasets, including:
-- `tn_movie_budgets.csv` – Theatrical movie budgets and revenues
-- `IMDb_data.db` – Data on movie ratings, genres, and other metadata
+We used multiple datasets, including
+- `tn_movie` – Theatrical movie budgets and revenues
+- `imdb_data.db` – Data on movie ratings, genres
 - Merged and cleaned data for analysis
 
----
+
 
 ##  Data Preparation
 
@@ -30,20 +29,20 @@ We performed:
 - Feature engineering
 - Removal of duplicates and outliers
 
----
+
 
 ## Data Analysis & Visualization
 
-Techniques used:
+We used
 - Univariate and multivariate analysis
 - Visualizations: bar plots, pie charts, scatter plots
 - Correlation analysis
 
-Tools:
+Tools
 - Python (Pandas, Seaborn, Matplotlib)
 - Tableau for dashboard visualizations
 
----
+
 
 ##  Key Insights
 
@@ -51,7 +50,7 @@ Tools:
 - High-rated movies tend to attract larger audiences regardless of budget.
 - Release years and budgets impact profitability significantly.
 
----
+
 
 ##  Business Recommendations
 
@@ -59,7 +58,7 @@ Tools:
 2. Prioritize **high-rated** scripts and **moderate budgets**.
 3. Consider **seasonal trends** and **audience rating** preferences.
 
----
+
 
 ##  Files in this Repository
 
@@ -68,14 +67,14 @@ Tools:
 - `presentation.pdf` – Non-technical stakeholder slide deck
 - `README.md` – Project overview
 
----
+
 
 ##  Tableau Dashboard
 
 You can view the interactive dashboard here:  
  [https://public.tableau.com/app/profile/morgan.amwai/viz/TABLEAUVISUALIZATIONS/Dashboard1?publish=yes]
 
----
+
 
 ##  Author
 
@@ -83,5 +82,5 @@ Morgan Amwai
 _Data Science Student, Moringa School_  
 GitHub: [morgyy](https://github.com/morgyy/)
 
----
+
 
