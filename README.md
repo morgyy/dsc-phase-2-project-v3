@@ -1,11 +1,11 @@
 
-## 📊 Phase 2 Data Science Project – Moringa School
+## Phase 2 Data Science Project – Moringa School
 
 This project explores movie industry data to help a production company decide which genres and attributes are most profitable and popular. By analyzing and visualizing data from multiple sources, we provide data-driven recommendations for future movie investments.
 
 ---
 
-## 🧠 Business Understanding
+##  Business Understanding
 
 The production company wants to invest in movies that perform well both critically and commercially. The business question is:
 
@@ -13,7 +13,7 @@ The production company wants to invest in movies that perform well both critical
 
 ---
 
-## 📂 Data Sources
+##  Data Sources
 
 We used multiple datasets, including:
 - `tn_movie_budgets.csv` – Theatrical movie budgets and revenues
@@ -22,7 +22,7 @@ We used multiple datasets, including:
 
 ---
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 We performed:
 - Data cleaning (handling nulls, data types, etc.)
@@ -32,7 +32,7 @@ We performed:
 
 ---
 
-## 📈 Data Analysis & Visualization
+## Data Analysis & Visualization
 
 Techniques used:
 - Univariate and multivariate analysis
@@ -45,7 +45,7 @@ Tools:
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - Certain genres like **Action**, **Adventure**, and **Animation** tend to yield higher returns.
 - High-rated movies tend to attract larger audiences regardless of budget.
@@ -53,7 +53,7 @@ Tools:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 
 1. Focus on **Action** and **Adventure** genres.
 2. Prioritize **high-rated** scripts and **moderate budgets**.
@@ -61,27 +61,27 @@ Tools:
 
 ---
 
-## 📎 Files in this Repository
+##  Files in this Repository
 
-- `movie_analysis.ipynb` – Jupyter notebook with code, analysis, and visuals
+- `student.ipynb` – Jupyter notebook with code, analysis, and visuals
 - `movie_analysis.csv` – Cleaned dataset used for analysis
 - `presentation.pdf` – Non-technical stakeholder slide deck
 - `README.md` – Project overview
 
 ---
 
-## 📊 Tableau Dashboard
+##  Tableau Dashboard
 
 You can view the interactive dashboard here:  
-👉 [https://public.tableau.com/app/profile/morgan.amwai/viz/TABLEAUVISUALIZATIONS/Dashboard1?publish=yes]
+ [https://public.tableau.com/app/profile/morgan.amwai/viz/TABLEAUVISUALIZATIONS/Dashboard1?publish=yes]
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 Morgan Amwai  
 _Data Science Student, Moringa School_  
-GitHub: [morgyy](https://github.com/morgyy)
+GitHub: [morgyy](https://github.com/morgyy/)
 
 ---
 
